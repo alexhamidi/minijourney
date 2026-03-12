@@ -1,0 +1,10 @@
+implement:
+- RL/finetunng
+- SREF
+- image2image
+- personalization
+- video
+- fast search
+
+using:
+- SDXL
